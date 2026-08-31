@@ -18,10 +18,10 @@ html {
     top: 0;
     left: 0;
 
-    width: 25vw;
-    height: 80vh;
+    width: 40px;
+    height: 40px;
 
-    border: calc(var(--cursor-size)/30) solid black;
+    border: calc(var(--cursor-size)/30) solid transparent;
     background-image: url("gif.gif");
 
     animation: cursor 800ms infinite 
